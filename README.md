@@ -1,2 +1,2 @@
 # hello-world
-Testing new branch.
+Getting introduced to the GitHub.
